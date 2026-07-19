@@ -39,7 +39,7 @@ made by zixcore on discord!
 
 ![div](https://64.media.tumblr.com/352dde0bac3be3bcb98135b62421f205/f03668631de77a31-99/s2048x3072/977d85f8d5bf02c49051081fa911363ca948ac4e.pnj)
 
-<img align="left" width="300" height="325" src="https://64.media.tumblr.com/3ae951b0c18bc240b32993ca77893fe3/17b4ee80218cf649-82/s1280x1920/1a545bcbe9e8aee127a166640f1fd723c49928c2.pnj"/>
+<img align="left" width="325" height="325" src="https://64.media.tumblr.com/3ae951b0c18bc240b32993ca77893fe3/17b4ee80218cf649-82/s1280x1920/1a545bcbe9e8aee127a166640f1fd723c49928c2.pnj"/>
 
 <table>
   <tr>
