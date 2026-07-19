@@ -45,12 +45,12 @@ made by zixcore on discord!
   <tr>
     <th>
       $\color{#799270}{\textsf{ }}$ <br>
-      $\color{#C5D1BE}{\textsf{“Paranoia, paranoia-}}$ <br>
-      $\color{#799270}{\textsf{everybody's coming to get me!}}$ <br>
-      $\color{#C5D1BE}{\textsf{Just say you never met me,}}$ <br>
-      $\color{#799270}{\textsf{I'm running underground with the moles, digging holes.}}$ <br>
-      $\color{#C5D1BE}{\textsf{Hear the voices in my head, I swear to god it sounds like they're snoring!}}$ <br>
-      $\color{#799270}{\textsf{But if you're bored, then you're boring. The agony and the irony, they're killing me. (whoa!)”}}$ <br>
+      $\color{#C5D1BE}{\textsf{“Put me in the hospital for nerves,}}$ <br>
+      $\color{#799270}{\textsf{and then they had to commit me.}}$ <br>
+      $\color{#C5D1BE}{\textsf{You told them all I was crazy!}}$ <br>
+      $\color{#799270}{\textsf{They cut off my legs,}}$ <br>
+      $\color{#C5D1BE}{\textsf{now I'm an amputee,}}$ <br>
+      $\color{#799270}{\textsf{God DAMN YOU!”}}$ <br>
       $\color{#C5D1BE}{\textsf{ }}$ <br>
 </th>
 </tr>
